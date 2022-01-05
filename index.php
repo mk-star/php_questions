@@ -48,6 +48,7 @@ if($_POST['submit']) {
 
 <div class="container-fluid">
 <hr class="mt-2 mb-3"/>
+
     <form action="" method="post">
 
         <h3>Ques1 : Who is the father of PHP? </h3>
